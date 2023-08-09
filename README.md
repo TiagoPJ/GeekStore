@@ -1,5 +1,5 @@
 # GeekStore
-Este projeto é uma loja geek online que tem como finalidade apenas para estudo que implementa os conceitos de SOLID e padrões como DDD, CQRS e Event Sourcing e etc.
+Este projeto é uma loja geek online desenvolvida em .NET C# que tem como finalidade apenas para estudo que implementa os conceitos de SOLID e padrões como DDD, CQRS e Event Sourcing e etc.
 
 O **SOLID** é um conjunto de cinco princípios de design de software que podem ajudar a criar sistemas de software robustos e escaláveis. Esses princípios são:
 
