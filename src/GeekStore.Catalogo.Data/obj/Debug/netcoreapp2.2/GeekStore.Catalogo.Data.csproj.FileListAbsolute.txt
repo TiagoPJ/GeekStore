@@ -1,0 +1,36 @@
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.deps.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.runtimeconfig.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.runtimeconfig.dev.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.csproj.CopyComplete
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.genruntimeconfig.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.deps.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.runtimeconfig.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.runtimeconfig.dev.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Core.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\bin\Debug\netcoreapp2.2\GeekStore.Core.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.csproj.CopyComplete
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Data\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.genruntimeconfig.cache

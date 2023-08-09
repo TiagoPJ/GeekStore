@@ -1,0 +1,690 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.WebApp.MVC\\GeekStore.WebApp.MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\EventSourcing\\EventSourcing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\EventSourcing\\EventSourcing.csproj",
+        "projectName": "EventSourcing",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\EventSourcing\\EventSourcing.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\EventSourcing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Application\\GeekStore.Catalogo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Application\\GeekStore.Catalogo.Application.csproj",
+        "projectName": "GeekStore.Catalogo.Application",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Application\\GeekStore.Catalogo.Application.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\GeekStore.Catalogo.Data.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\GeekStore.Catalogo.Data.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "automapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\GeekStore.Catalogo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\GeekStore.Catalogo.Data.csproj",
+        "projectName": "GeekStore.Catalogo.Data",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\GeekStore.Catalogo.Data.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.sqlserver": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj",
+        "projectName": "GeekStore.Catalogo.Domain",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj",
+        "projectName": "GeekStore.Core",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Application\\GeekStore.Vendas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Application\\GeekStore.Vendas.Application.csproj",
+        "projectName": "GeekStore.Vendas.Application",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Application\\GeekStore.Vendas.Application.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Data\\GeekStore.Vendas.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Data\\GeekStore.Vendas.Data.csproj",
+        "projectName": "GeekStore.Vendas.Data",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Data\\GeekStore.Vendas.Data.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj",
+        "projectName": "GeekStore.Vendas.Domain",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Core\\GeekStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.WebApp.MVC\\GeekStore.WebApp.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.WebApp.MVC\\GeekStore.WebApp.MVC.csproj",
+        "projectName": "GeekStore.WebApp.MVC",
+        "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.WebApp.MVC\\GeekStore.WebApp.MVC.csproj",
+        "packagesPath": "C:\\Users\\Tiago Jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.WebApp.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tiago Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\EventSourcing\\EventSourcing.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\EventSourcing\\EventSourcing.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Application\\GeekStore.Catalogo.Application.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Application\\GeekStore.Catalogo.Application.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\GeekStore.Catalogo.Data.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Data\\GeekStore.Catalogo.Data.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Catalogo.Domain\\GeekStore.Catalogo.Domain.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Application\\GeekStore.Vendas.Application.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Application\\GeekStore.Vendas.Application.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Data\\GeekStore.Vendas.Data.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Data\\GeekStore.Vendas.Data.csproj"
+              },
+              "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tiago Jesus\\Documents\\Desenvolvedor IO\\GeekStore\\src\\GeekStore.Vendas.Domain\\GeekStore.Vendas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

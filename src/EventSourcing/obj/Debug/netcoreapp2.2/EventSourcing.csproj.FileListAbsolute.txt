@@ -1,0 +1,26 @@
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.deps.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CopyComplete
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.deps.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\bin\Debug\netcoreapp2.2\EventSourcing.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\bin\Debug\netcoreapp2.2\GeekStore.Core.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\bin\Debug\netcoreapp2.2\GeekStore.Core.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.csproj.CopyComplete
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\EventSourcing\obj\Debug\netcoreapp2.2\EventSourcing.pdb
