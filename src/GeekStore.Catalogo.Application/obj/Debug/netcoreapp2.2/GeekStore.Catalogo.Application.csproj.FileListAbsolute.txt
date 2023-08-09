@@ -1,0 +1,34 @@
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.deps.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Data.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.csproj.CopyComplete
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\src\NerdStore.Catalogo.Application\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Application.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.deps.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Core.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Data.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\bin\Debug\netcoreapp2.2\GeekStore.Core.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.csproj.CopyComplete
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\src\GeekStore.Catalogo.Application\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Application.pdb

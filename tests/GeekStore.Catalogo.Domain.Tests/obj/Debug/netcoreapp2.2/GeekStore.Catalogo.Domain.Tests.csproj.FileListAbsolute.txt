@@ -1,0 +1,42 @@
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.deps.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.runtimeconfig.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.runtimeconfig.dev.json
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.csproj.CopyComplete
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.dll
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.pdb
+C:\Users\Tiago Jesus\Downloads\039E27E4-F88B-4013-A59C-8B0DF8FE9C64-04 - Projeto NerdStore Completo\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.genruntimeconfig.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.deps.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.runtimeconfig.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.runtimeconfig.dev.json
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Core.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\bin\Debug\netcoreapp2.2\GeekStore.Core.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.csproj.AssemblyReference.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.AssemblyInfo.cs
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.csproj.CopyComplete
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.dll
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.pdb
+C:\Users\Tiago Jesus\Documents\Desenvolvedor IO\GeekStore\tests\GeekStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\GeekStore.Catalogo.Domain.Tests.genruntimeconfig.cache
