@@ -17,4 +17,4 @@ O **Event Sourcing** é um padrão de arquitetura que armazena o estado de um si
 
 A combinação desses conceitos e padrões pode ajudar a criar sistemas de software que são robustos, escaláveis e flexíveis.
 
-
+**Falta implementar o core de pagamento**
